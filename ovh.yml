@@ -1,0 +1,6 @@
+# OVH Config
+ovh:
+  endpoint: "ovh-eu"
+  application_key: ""
+  application_secret: ""
+  consumer_key: ""
